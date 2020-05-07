@@ -1,0 +1,7 @@
+('njjvfg', 800, 'Saving account', 'dfghh', '064513872'){'bhjj': 'bhjj', 8000: 8000, 'Savings account': 'Savings account', ' gbnj': ' gbnj', '836057412': '836057412'}
+{'oktotj': 'oktotj', 9000: 9000, 'Fixed Deposit Account': 'Fixed Deposit Account', 'ngmgkhk': 'ngmgkhk', '812046735': '812046735'}
+{'account_name': 'nggmn', 'opening_balance': 800, 'account_type': 'Fixed Deposit Account', 'account_emailaddress': 'mmbm', 'account_number': '358042671'}
+('ggb', 9000, 'Fixed Deposit Account', 'yjcjvuiu', '206317485')
+('ghuhj', 900, 'Fixed Deposit Account', 'vhh', '807251436')
+{'account_name': 'vuvuh', 'opening_balance': 67, 'account_type': 'Savings account', 'account_emailaddress': 'kjkjb', 'account_number': '273501864'}
+{'account_name': 'ggh', 'opening_balance': 44, 'account_type': 'Fixed Deposit Account', 'account_emailaddress': 'ff', 'account_number': '170628435'}
